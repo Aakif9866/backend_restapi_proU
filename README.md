@@ -41,37 +41,7 @@ This project includes **full CRUD** for all entities.
 - dotenv
 - nodemon (dev only)
 
----
 
-## 📁 Project Structure
-
-api/
-│── index.js
-│── package.json
-│── .env (not uploaded to GitHub)
-│
-├── routes/
-│ ├── auth.js
-│ ├── employee.js
-│ └── task.js
-│
-├── controllers/
-│ ├── auth.controller.js
-│ ├── employee.controller.js
-│ └── task.controller.js
-│
-├── models/
-│ ├── user.model.js
-│ ├── employee.model.js
-│ └── task.model.js
-│
-└── utils/
-└── error.js
-
-yaml
-Copy code
-
----
 
 ## 🛠️ Installation & Setup (Local)
 
